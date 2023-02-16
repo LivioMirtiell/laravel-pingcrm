@@ -16,7 +16,7 @@ cd pingcrm
 Install PHP dependencies:
 
 ```sh
-composer install
+composer install ou composer update --ignore-platform-reqs
 ```
 
 Install NPM dependencies:
